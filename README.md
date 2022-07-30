@@ -1,4 +1,4 @@
-# AI Product Manager Nanodegree
+# [AI Product Manager Nanodegree](https://classroom.udacity.com/nanodegrees/nd088-ent/syllabus/core-curriculum)
 
 ## [Project n°1: Medical Image Annotation Job](https://github.com/elateifsara/ai-product-management/tree/main/project1)
 
