@@ -1,6 +1,6 @@
 # AI Product Manager Nanodegree
 
-## Project n°1: Medical Image Annotation Job
+## [Project n°1: Medical Image Annotation Job](https://github.com/elateifsara/ai-product-management/tree/main/project1)
 
 **Purpose:**  
 
@@ -12,7 +12,7 @@ Build a product that helps doctors quickly identify cases of pneumonia in childr
 
 <img src="project1/aipm_p1.png" alt="Project 1">
 
-## Project n°2: Model with Google AutoML
+## [Project n°2: Model with Google AutoML](https://github.com/elateifsara/ai-product-management/tree/main/project2)
 
 **Purpose:** 
 Study how training data impact models.
@@ -26,7 +26,7 @@ I trained four different models using four variants of the pneumonia dataset cla
 3. Created a binary classifier with dirty data (started with the original dataset of 100 "normal" and 100 "pneumonia" images. Then switched the labels of 30 images in each class)
 4. Created a three-class model with the classes “normal”, “bacterial pneumonia”, and “viral pneumonia” (added 100 "normal" images, 100 "bacterial pneumonia" images, and 100 "viral pneumonia" images)
 
-## Project n°3: AI Product Business Proposal
+## [Project n°3: AI Product Business Proposal](https://github.com/elateifsara/ai-product-management/tree/main/project3)
 
 **Purpose:** 
 
