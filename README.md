@@ -10,7 +10,7 @@ Build a product that helps doctors quickly identify cases of pneumonia in childr
 - Created a data labeling job using Appen's platform. 
 - Developed a proposal file, which is a writeup that details my design considerations and strategies for quality assurance.
 
-<img src="aipm_p1.png" alt="Project 1">
+<img src="project1/aipm_p1.png" alt="Project 1">
 
 ## Project n°2: Model with Google AutoML
 
